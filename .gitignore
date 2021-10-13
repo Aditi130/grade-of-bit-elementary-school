@@ -24,7 +24,7 @@ int main()
   {
    printf("Grade B");
   }
-  else(marks>=85 && marks=<100)
+  else(marks>=85 && marks<100)
   {
    printf("Grade A");
   }
